@@ -1,0 +1,10 @@
+body {
+    background-color: seagreen;
+}
+
+.container {
+    align-items: center;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    
+}
